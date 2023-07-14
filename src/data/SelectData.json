@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "label": "Audio visual equipment management",
+        "value": "Audio visual equipment management"
+    },
+    {
+        "id": 2,
+        "label": "Flow management",
+        "value": "Flow management"
+    },
+    {
+        "id": 3,
+        "label": "Human resource management",
+        "value": "Human resource management"
+    },
+    {
+        "id": 4,
+        "label": "IT and technology",
+        "value": "IT and technology"
+    },
+    {
+        "id": 5,
+        "label": "Transport management",
+        "value": "Transport management"
+    },
+    {
+        "id": 6,
+        "label": "Hygiene & Food Contamination Control",
+        "value": "Hygiene & Food Contamination Control"
+    },
+    {
+        "id": 7,
+        "label": "Mahal us Shifa",
+        "value": "Mahal us Shifa"
+    },
+    {
+        "id": 8,
+        "label": "Mawaid",
+        "value": "Mawaid"
+    },
+    {
+        "id": 9,
+        "label": "Nazafat",
+        "value": "Nazafat"
+    },
+    {
+        "id": 10,
+        "label": "Vaaz Talaaqi & Ohbat",
+        "value": "Vaaz Talaaqi & Ohbat"
+    },
+    {
+        "id": 11,
+        "label": "Finance / Procurement",
+        "value": "Finance / Procurement"
+    }
+]
